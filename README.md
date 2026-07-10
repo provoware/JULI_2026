@@ -16,6 +16,7 @@ Dieses Paket enthält eine optimierte Agenten- und Codex-Arbeitsgrundlage für r
 | `CHECKLISTE_ABSCHLUSS.md` | Abschluss- und Übergabecheckliste |
 | `TESTPROTOKOLL_TEMPLATE.md` | Vorlage für Testnachweise |
 | `CHANGELOG_TEMPLATE.md` | Vorlage für dokumentierte Änderungen |
+| `TODO.md` | Priorisierte Aufgabenliste für die nächste professionelle Weiterentwicklung |
 
 ## Empfohlene Nutzung
 
